@@ -1,2 +1,1 @@
-I have a change.
-I have a change more a time.
+Try to understand the stack.
